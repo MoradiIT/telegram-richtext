@@ -1,4 +1,7 @@
 # Telegram Richtext Composer
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This Python application helps you create and edit rich-text content for your Telegram channel.
 
 I created this application as a comprehensive editor for Telegram bot messages, with support for the Markdown and HTML formatting options accepted by the Telegram Bot API. The goal is to make it easier to create, edit, and publish richly formatted Telegram messages without manually writing formatting tags.
@@ -46,4 +49,4 @@ CHANNEL = "@****"
 ## Screenshot
 
 The screenshot below shows the application's interface:
-
+![Screenshot](richtext.png)
